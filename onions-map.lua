@@ -36,6 +36,7 @@ onions_map = {
 	["rows.io"] = "yz6yiv2hxyagvwy6.onion";	
 	["xmpp.rows.io"] = "yz6yiv2hxyagvwy6.onion";
 	["securejabber.me"] = "giyvshdnojeivkom.onion";
+	["snopyta.org"] = "k7dpxckkgf32efbt.onion";
 	["so36.net"] = "s4fgy24e2b5weqdb.onion";
 	["jabber.so36.net"] = "s4fgy24e2b5weqdb.onion";
 	["jabber.systemli.org"] = "x5tno6mwkncu5m3h.onion";
