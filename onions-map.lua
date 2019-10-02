@@ -4,6 +4,7 @@ onions_map = {
 	["adb-centralen.se"] = "qai7jjjnhbrdiexf.onion";
 	["anonymitaet-im-inter.net"] = "rwf5skuv5vqzcdit.onion";
 	["autistici.org"] = "wi7qkxyrdpu5cmvr.onion";
+	["bobbel.nsupdate.info"] = "64umtbkvot2mm3bv.onion";
 	["jabber.calyxinstitute.org"] = "ijeeynrc6x2uy5ob.onion";
 	["jabber.ccc.de"] = "okj7xc6j2szr2y75.onion";
 	["cloak.dk"] = "m2dsl4banuimpm6c.onion";
