@@ -1,5 +1,6 @@
 onions_map = {
 	["anrc.mooo.com"] = "6w5iasklrbr2kw53zqrsjktgjapvjebxodoki3gjnmvb4dvcbmz7n3qd.onion";
+	["jabber.cat"] = "x76it4hax7s6s6j64ta6iiolar6o6hwlwoeyoqmkjcdgjza6gqqj5gyd.onion";
 	["jabber.de"] = "uoj2xiqxk25p36wbpufiyuhluvxakhpqum7frembhoiuq7a5735ay3qd.onion";
 	["jabber.otr.im"] = "ynnuxkbbiy5gicdydekpihmpbqd4frruax2mqhpc35xqjxp5ayvrjuqd.onion";
 	["jabber.so36.net"] = "yxkc2uu3rlwzzhxf2thtnzd7obsdd76vtv7n34zwald76g5ogbvjbbqd.onion";
